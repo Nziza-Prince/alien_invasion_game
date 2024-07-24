@@ -7,7 +7,7 @@ class Settings:
         self.screen_width = 1200
         self.screen_length = 800
         self.bg_color = (230,230,230)
-        self.bullet_width = 500
+        self.bullet_width = 5
         self.bullet_length = 10
         self.bullet_color = (255,0,0)
         self.bullets_allowed = 5
