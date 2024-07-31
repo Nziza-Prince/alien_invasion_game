@@ -10,7 +10,7 @@ class Settings:
         self.bullet_width = 5
         self.bullet_length = 10
         self.bullet_color = (255,0,0)
-        self.bullets_allowed = 5
+        self.bullets_allowed = 50
         self.fleet_drop_speed = 5
         self.ship_limit = 3
         self.speedup_scale = 1.1
